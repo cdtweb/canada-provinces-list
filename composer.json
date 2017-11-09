@@ -1,0 +1,34 @@
+{
+    "name": "cdtweb/canada-provinces-list",
+    "description": "A library that provides a list of Canadian provinces and territories.",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Clint Tyler",
+            "email": "ctyler@cdtwebsolutions.com"
+        }
+    ],
+    "keywords": ["ca", "canada", "provinces", "states"],
+    "homepage": "https://github.com/cdtweb/canada-provinces-list",
+    "require": {
+        "php": ">=7"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "2.*",
+        "phpunit/phpunit": "^6.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cdtweb\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Cdtweb\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "./vendor/bin/phpunit"
+    }
+}
