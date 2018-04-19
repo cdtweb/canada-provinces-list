@@ -15,6 +15,9 @@ class CanadaProvincesList
         'SK' => 'Saskatchewan',
         'AB' => 'Alberta',
         'NL' => 'Newfoundland and Labrador',
+        'NT' => 'Northwest Territories',
+        'YT' => 'Yukon',
+        'NU' => 'Nunavut'
     ];
 
     /**
@@ -29,7 +32,7 @@ class CanadaProvincesList
     }
 
     /**
-     * Get array of US state abbreviations.
+     * Get array of Canadian province abbreviations.
      *
      * @return array
      */
@@ -39,7 +42,7 @@ class CanadaProvincesList
     }
 
     /**
-     * Get array of US state names.
+     * Get array of Canadian province names.
      *
      * @return array
      */
