@@ -1,5 +1,7 @@
 # Canada Provinces List
 
+[![Build Status](https://travis-ci.org/cdtweb/canada-provinces-list.svg?branch=master)](https://travis-ci.org/cdtweb/canada-provinces-list)
+
 A library that provides a list of Canadian provinces and territories.
 
 ## Requirements
