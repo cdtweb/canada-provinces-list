@@ -1,7 +1,7 @@
 {
     "name": "cdtweb/canada-provinces-list",
     "description": "A library that provides a list of Canadian provinces and territories.",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "license": "MIT",
     "authors": [
         {
